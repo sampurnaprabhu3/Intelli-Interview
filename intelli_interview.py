@@ -7,7 +7,7 @@ import numpy as np
 # from deepface import DeepFace
 import random
 
-genai.configure(api_key='AIzaSyCDVlXP7Wvt-q0qk-QKLxONzqBr9AAbtPA')
+genai.configure(api_key=' ADD YOUR API KEY HERE ')
 
 
 class SmartInterviewChatbot:
